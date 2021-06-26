@@ -27,7 +27,7 @@ func main() {
 	fmt.Println(etime.Round(time.Duration(stime.Second())))
 }
 
-const letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+const letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
 var src = rand.NewSource(time.Now().UnixNano())
 
