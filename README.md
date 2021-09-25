@@ -1,3 +1,5 @@
-# Really-Fast-Discord-Nitro-Generator
+# nitro code generator
 
-It's really fast
+You need go to run it | https://golang.org
+
+Run the command `go run .` in the place you have this code saved.
